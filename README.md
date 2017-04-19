@@ -5,6 +5,11 @@
 - wget https://github.com/WaZeR-Adrien/config/archive/master.zip
 - unzip master.zip
 
+### Start script :
+- ./config.sh
+- login with your password
+
+
 #### This script install :
 - Chrome
 - Fish
